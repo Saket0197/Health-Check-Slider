@@ -1,2 +1,2 @@
-# Top-Tech-Courses
+# Top-Courses
 Top Tech Courses - REACTJS + TAILWIND-CSS
