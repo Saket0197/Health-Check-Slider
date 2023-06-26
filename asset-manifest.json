@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Health-Check-Slider/static/css/main.cdf8c22a.css",
+    "main.js": "/Health-Check-Slider/static/js/main.316917e6.js",
+    "static/media/bgImage2.jpg": "/Health-Check-Slider/static/media/bgImage2.ff2c37f0ad9c98f1ecf8.jpg",
+    "index.html": "/Health-Check-Slider/index.html",
+    "main.cdf8c22a.css.map": "/Health-Check-Slider/static/css/main.cdf8c22a.css.map",
+    "main.316917e6.js.map": "/Health-Check-Slider/static/js/main.316917e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdf8c22a.css",
+    "static/js/main.316917e6.js"
+  ]
+}
